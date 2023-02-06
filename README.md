@@ -4,8 +4,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   </head>
   <body>
-    <h1>Printed Empty Diamond Whit Asterisk Sign(*)</h1>
     <div>
+      <h1>Printed Empty Diamond Whit Asterisk Sign(*)</h1>
+      <a href="https://i0.wp.com/code4javac.com/wp-content/uploads/2019/12/diamond-vertical-1.jpg?w=200&ssl=1">
+        <img
+          width="15%"
+          align="right"
+          src="https://i0.wp.com/code4javac.com/wp-content/uploads/2019/12/diamond-vertical-1.jpg?w=200&ssl=1"
+        />
+      </a>
       <p>
         It's a project for testing knowledge in use of "WriteLine" and "Write"
         methods.<br />
@@ -17,11 +24,6 @@
         If you have any messages for me, rich me by E-mail at
         <a href="mailto: mortezatajerii@gmail.com">mortezatajerii@gmail.com</a>
       </p>
-    </div>
-    <div>
-      <a href="https://i0.wp.com/code4javac.com/wp-content/uploads/2019/12/diamond-vertical-1.jpg?w=200&ssl=1">
-      <img src="https://i0.wp.com/code4javac.com/wp-content/uploads/2019/12/diamond-vertical-1.jpg?w=200&ssl=1">
-      </a>
     </div>
   </body>
 </html>
